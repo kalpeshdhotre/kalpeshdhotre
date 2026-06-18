@@ -59,14 +59,14 @@ Through daily hands-on practice, project-based learning, and public documentatio
 
 <table border="0">
   <tr border="0">
-    <td align="center" width="150">
+    <td align="center" width="150" border="0">
       <a href="https://www.credly.com/badges/998c4e62-bce5-47c2-8985-5fdd33c3c4e0/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130" alt="GCP ACE Badge" />
       </a>
       <br />
       <b>Google Cloud</b><br/>Associate Cloud Engineer
     </td>
-    <td align="center" width="150">
+    <td align="center" width="150" border="0">
       <a href="https://learn.microsoft.com/en-us/users/kalpeshdhotre/credentials/7ea768d392073fa2" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="130" alt="AI-900 Badge" />
       </a>
