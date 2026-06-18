@@ -1,15 +1,19 @@
 # Hi, I'm Kalpesh 👋
 
-I spent over two decades (2001–2024) in the IT hardware industry — running a Dell brand store and representing brands like HP, Lenovo, and Acer. In 2024, I made a deliberate pivot into software, exploring web development, Web3, cloud, and AI.
+I spent over two decades (2001–2024) in the IT hardware industry, including running a Dell exclusive store and working with leading brands such as HP, Lenovo, and Acer.
 
-That journey led me to where I'm most excited: **Cloud & DevOps**.
+In late 2024, I made a deliberate career transition into software development. Since then, I have been exploring web development, full-stack applications, cloud computing, Web3, and AI, while building hands-on projects to strengthen my practical skills.
+
+Today, my primary focus is Cloud and DevOps—the area where I see the greatest opportunity to combine my years of IT experience with modern software and infrastructure technologies.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- **90 Days of DevOps** — a structured challenge under the [TrainWithShubham](https://www.trainwithshubham.com/) cohort by Shubham Londhe
-- Building real-world DevOps skills through daily hands-on practice and public documentation
+90 Days of DevOps
+I am currently participating in the 90 Days of DevOps challenge under the [TrainWithShubham](https://www.trainwithshubham.com/) cohort led by [Shubham Londhe](https://www.linkedin.com/in/shubhamlondhe1996/).
+
+Through daily hands-on practice, project-based learning, and public documentation of my progress, I am building real-world DevOps and Cloud skills. My goal is to transition into the software industry through the Cloud and DevOps path and contribute to modern infrastructure, automation, and platform engineering teams.
 
 ---
 
@@ -88,12 +92,6 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
   <img src="https://streak-stats.demolab.com?user=kalpeshdhotre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ## 📅 Contribution Graph -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpeshdhotre&theme=tokyo-night&hide_border=true&area=true&days=30" alt="Contribution Graph" />
-</p> -->
-
 ---
 
 ## 📂 Projects
@@ -103,33 +101,12 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 | [Patient Management System](https://drrahul.netlify.app/opd) | A basic patient record management tool for clinic/doctor use |
 | [Password Manager](https://monokey.online)                   | A personal password management utility                       |
 
-> 🔧 Replace the `#` above with your actual repo URLs.
-
 ---
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-<!-- <table>
-  <tr>
-    <td align="center" >
-      <a href="https://www.linkedin.com/in/kalpeshdhotre/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" >
-      <a href="https://twitter.com/kalpeshkdhotre" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.simpleicons.org/x" width="28" height="28" alt="X (Twitter)" />
-      </a>
-    </td>
-    <td align="center" >
-      <a href="mailto:kalpeshdhotre@gmail.com">
-        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="28" height="28" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table> -->
 <p>
   <a href="https://www.linkedin.com/in/kalpeshdhotre/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" />
@@ -145,9 +122,3 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 </p>
 
 </div>
-
----
-
-<!-- <p align="center">
-  <i>"From selling hardware to building cloud infrastructure — the journey continues."</i>
-</p> -->
