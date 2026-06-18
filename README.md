@@ -15,15 +15,19 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 ## 🛠️ Skills & Tools
 
-| Category                   | Tools                                       |
-| -------------------------- | ------------------------------------------- |
-| OS & Shell                 | Linux (RHEL/Ubuntu), Bash / Shell Scripting |
-| Version Control            | Git, GitHub, GitHub CLI                     |
-| Containers & Orchestration | Docker, Kubernetes                          |
-| CI/CD                      | Pipelines (learning)                        |
-| Observability              | Grafana, Prometheus                         |
-| Cloud                      | GCP ✅, AWS (learning)                      |
-| Languages                  | Python (basics)                             |
+<div align="center">
+
+| Category                   | Tools                                            |
+| :------------------------- | :----------------------------------------------- |
+| OS & Shell                 | Linux (RHEL/Ubuntu), Bash / Shell Scripting      |
+| Version Control            | Git, GitHub, GitHub CLI                          |
+| Containers & Orchestration | Docker, Kubernetes                               |
+| CI/CD                      | Pipelines (learning)                             |
+| Observability              | Grafana, Prometheus                              |
+| Cloud                      | GCP, AWS (learning)                              |
+| Languages                  | HTML, CSS, JavaScript, React, MongoDB - (basics) |
+
+</div>
 
 ---
 
@@ -76,10 +80,10 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 ## 📂 Projects
 
-| Project                        | Description                                                  |
-| ------------------------------ | ------------------------------------------------------------ |
-| [Patient Management System](#) | A basic patient record management tool for clinic/doctor use |
-| [Password Manager](#)          | A personal password management utility                       |
+| Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Patient Management System](https://drrahul.netlify.app/opd) | A basic patient record management tool for clinic/doctor use |
+| [Password Manager](https://monokey.online)                   | A personal password management utility                       |
 
 > 🔧 Replace the `#` above with your actual repo URLs.
 
@@ -113,6 +117,6 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>"From selling hardware to building cloud infrastructure — the journey continues."</i>
-</p>
+</p> -->
