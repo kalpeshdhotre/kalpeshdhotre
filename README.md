@@ -13,7 +13,7 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 ---
 
-## 🛠️ Skills & Tools
+<!-- ## 🛠️ Skills & Tools
 
 <div align="center">
 
@@ -29,6 +29,24 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 </div>
 
+--- -->
+
+## 🛠️ Skills & Tools
+
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,gcp,aws,docker,kubernetes,grafana,prometheus,githubactions,git,github&theme=dark"/>
+  </a>
+</p>
+
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nodejs&theme=dark"/>
+  </a>
+</p>
+
 ---
 
 ## 📜 Certifications
@@ -37,14 +55,14 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <a href="https://www.credly.com/badges/998c4e62-bce5-47c2-8985-5fdd33c3c4e0/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130" alt="GCP ACE Badge" />
       </a>
       <br />
       <b>Google Cloud</b><br/>Associate Cloud Engineer
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <a href="https://learn.microsoft.com/en-us/users/kalpeshdhotre/credentials/7ea768d392073fa2" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="130" alt="AI-900 Badge" />
       </a>
@@ -93,25 +111,38 @@ That journey led me to where I'm most excited: **Cloud & DevOps**.
 
 <div align="center">
 
-<table>
+<!-- <table>
   <tr>
     <td align="center" >
       <a href="https://www.linkedin.com/in/kalpeshdhotre/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />                
+        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
       </a>
     </td>
     <td align="center" >
       <a href="https://twitter.com/kalpeshkdhotre" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.simpleicons.org/x" width="28" height="28" alt="X (Twitter)" />        
+        <img src="https://cdn.simpleicons.org/x" width="28" height="28" alt="X (Twitter)" />
       </a>
     </td>
     <td align="center" >
       <a href="mailto:kalpeshdhotre@gmail.com">
-        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="28" height="28" alt="Email" />        
+        <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="28" height="28" alt="Email" />
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+<p>
+  <a href="https://www.linkedin.com/in/kalpeshdhotre/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/kalpeshkdhotre">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" />
+  </a>
+</p>
 
 </div>
 
