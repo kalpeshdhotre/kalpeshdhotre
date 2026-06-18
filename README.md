@@ -109,15 +109,13 @@ Through daily hands-on practice, project-based learning, and public documentatio
 
 <p>
   <a href="https://www.linkedin.com/in/kalpeshdhotre/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" hspace="20"/>
   </a>
-  &nbsp;
   <a href="https://twitter.com/kalpeshkdhotre">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" hspace="20"/>
   </a>
-  &nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" hspace="20"/>
   </a>
 </p>
 
