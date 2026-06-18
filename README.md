@@ -82,11 +82,11 @@ Through daily hands-on practice, project-based learning, and public documentatio
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalpeshdhotre&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshdhotre&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kalpeshdhotre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -103,19 +103,19 @@ Through daily hands-on practice, project-based learning, and public documentatio
 
 ---
 
-## 📬 Connect With Me
+## Click Connect With Me
 
 <div align="center">
 
 <p>
   <a href="https://www.linkedin.com/in/kalpeshdhotre/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" hspace="20"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" />
   </a>
   <a href="https://twitter.com/kalpeshkdhotre">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" hspace="20"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" hspace="20"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" />
   </a>
 </p>
 
