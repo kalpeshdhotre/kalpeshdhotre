@@ -58,7 +58,7 @@ Through daily hands-on practice, project-based learning, and public documentatio
 <div align="center">
 
 <table border="0">
-  <tr>
+  <tr border="0">
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/998c4e62-bce5-47c2-8985-5fdd33c3c4e0/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130" alt="GCP ACE Badge" />
