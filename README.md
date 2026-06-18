@@ -57,7 +57,7 @@ Through daily hands-on practice, project-based learning, and public documentatio
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/998c4e62-bce5-47c2-8985-5fdd33c3c4e0/public_url" target="_blank">
