@@ -111,12 +111,27 @@ Through daily hands-on practice, project-based learning, and public documentatio
   <a href="https://www.linkedin.com/in/kalpeshdhotre/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" />
   </a>
+  &nbsp;
+  &nbsp;
   <a href="https://twitter.com/kalpeshkdhotre">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="28" />
   </a>
+    &nbsp;
+    &nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="28" />
+  </a>  
+  
+  <!-- <a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" height="30">
   </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" height="30">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="30">
+  </a> -->
+
 </p>
 
 </div>
